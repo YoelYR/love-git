@@ -26,3 +26,8 @@ To add an exception for this directory, call:
 
 	git config --global --add safe.directory /home/yoel/love-git
 2024-04-08 14:24:37.260 [warning] Failed to get repository realpath for: "/home/yoel/love-git/". Error: ENOENT: no such file or directory, realpath '/home/yoel/love-git/'
+2024-04-08 14:26:42.232 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-08 14:26:42.232 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git
