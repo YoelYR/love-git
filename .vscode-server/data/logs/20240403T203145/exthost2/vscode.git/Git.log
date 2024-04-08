@@ -1,0 +1,18 @@
+2024-04-04 01:27:42.904 [info] Log level: Info
+2024-04-04 01:27:42.904 [info] Validating found git in: "git"
+2024-04-04 01:27:42.905 [info] Using git "2.34.1" from "git"
+2024-04-04 01:27:42.905 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:27:42.905 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:27:44.555 [info] > git rev-parse --show-toplevel [39ms]
+2024-04-04 01:27:44.555 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:28:06.426 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:28:06.426 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica

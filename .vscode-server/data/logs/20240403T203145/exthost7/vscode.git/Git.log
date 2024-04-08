@@ -1,0 +1,27 @@
+2024-04-08 14:13:22.071 [info] Log level: Info
+2024-04-08 14:13:22.071 [info] Validating found git in: "git"
+2024-04-08 14:13:22.071 [info] Using git "2.34.1" from "git"
+2024-04-08 14:13:22.071 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-08 14:13:22.071 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git
+2024-04-08 14:13:22.803 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-08 14:13:22.803 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git
+2024-04-08 14:15:12.003 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-08 14:15:12.003 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-08 14:15:36.351 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-08 14:15:36.351 [info] fatal: not a git repository (or any of the parent directories): .git
+2024-04-08 14:15:53.544 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-08 14:15:53.544 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git
+2024-04-08 14:20:05.783 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-08 14:20:05.783 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git

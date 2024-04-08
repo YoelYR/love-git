@@ -1,0 +1,38 @@
+2024-04-04 13:02:12.311 [info] Log level: Info
+2024-04-04 13:02:12.311 [info] Validating found git in: "git"
+2024-04-04 13:02:12.311 [info] Using git "2.34.1" from "git"
+2024-04-04 13:02:12.311 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-04 13:02:12.312 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit
+2024-04-04 13:02:17.559 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 13:02:17.559 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit
+2024-04-04 13:02:19.113 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 13:02:19.113 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit
+2024-04-04 13:02:24.138 [info] > git rev-parse --show-toplevel [18ms]
+2024-04-04 13:02:24.138 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit
+2024-04-04 13:02:35.706 [info] > git rev-parse --show-toplevel [108ms]
+2024-04-04 13:02:35.706 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit
+2024-04-08 14:11:49.651 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-08 14:11:49.651 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit/git-and-github-practice/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit/git-and-github-practice/love-git
+2024-04-08 14:11:52.104 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-08 14:11:52.104 [info] fatal: detected dubious ownership in repository at '/home/yoel/practicagit/git-and-github-practice/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practicagit/git-and-github-practice/love-git

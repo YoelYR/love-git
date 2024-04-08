@@ -1,0 +1,45 @@
+2024-04-03 20:31:45.999 [info] 
+
+
+
+
+2024-04-03 20:31:45.999 [info] Extension host agent started.
+2024-04-03 20:31:45.999 [info] Started initializing default profile extensions in extensions installation folder. file:///home/yoel/.vscode-server/extensions
+2024-04-03 20:31:46.011 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/yoel/.vscode-server/extensions
+2024-04-03 20:31:46.277 [info] [127.0.0.1][b9a67892][ManagementConnection] New connection established.
+2024-04-03 20:31:46.502 [info] [127.0.0.1][dab9ddb0][ExtensionHostConnection] New connection established.
+2024-04-03 20:31:46.510 [info] [127.0.0.1][dab9ddb0][ExtensionHostConnection] <137483> Launched Extension Host Process.
+2024-04-04 01:27:38.671 [info] [127.0.0.1][b9a67892][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-04 01:27:38.811 [info] [127.0.0.1][dab9ddb0][ExtensionHostConnection] <137483> Extension Host Process exited with code: 0, signal: null.
+2024-04-04 01:27:40.590 [info] [127.0.0.1][5a308414][ManagementConnection] New connection established.
+2024-04-04 01:27:41.026 [info] [127.0.0.1][6b1e677c][ExtensionHostConnection] New connection established.
+2024-04-04 01:27:41.032 [info] [127.0.0.1][6b1e677c][ExtensionHostConnection] <254445> Launched Extension Host Process.
+2024-04-04 01:32:37.947 [info] [127.0.0.1][5a308414][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-04 01:32:37.968 [info] [127.0.0.1][6b1e677c][ExtensionHostConnection] <254445> Extension Host Process exited with code: 0, signal: null.
+2024-04-04 01:32:39.165 [info] [127.0.0.1][11e3a163][ManagementConnection] New connection established.
+2024-04-04 01:32:39.591 [info] [127.0.0.1][387792c2][ExtensionHostConnection] New connection established.
+2024-04-04 01:32:39.596 [info] [127.0.0.1][387792c2][ExtensionHostConnection] <255442> Launched Extension Host Process.
+2024-04-04 01:33:00.697 [info] [127.0.0.1][11e3a163][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-04 01:33:00.738 [info] [127.0.0.1][387792c2][ExtensionHostConnection] <255442> Extension Host Process exited with code: 0, signal: null.
+2024-04-04 01:33:01.796 [info] [127.0.0.1][391bcebc][ManagementConnection] New connection established.
+2024-04-04 01:33:02.051 [info] [127.0.0.1][50903d6d][ExtensionHostConnection] New connection established.
+2024-04-04 01:33:02.056 [info] [127.0.0.1][50903d6d][ExtensionHostConnection] <255620> Launched Extension Host Process.
+2024-04-04 01:34:25.686 [info] [127.0.0.1][391bcebc][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-04 01:34:25.734 [info] [127.0.0.1][50903d6d][ExtensionHostConnection] <255620> Extension Host Process exited with code: 0, signal: null.
+2024-04-04 01:34:26.884 [info] [127.0.0.1][4292ee24][ManagementConnection] New connection established.
+2024-04-04 01:34:27.300 [info] [127.0.0.1][106efa58][ExtensionHostConnection] New connection established.
+2024-04-04 01:34:27.304 [info] [127.0.0.1][106efa58][ExtensionHostConnection] <256007> Launched Extension Host Process.
+2024-04-04 10:32:28.323 [info] [127.0.0.1][106efa58][ExtensionHostConnection] The client has reconnected.
+2024-04-04 10:32:28.501 [info] [127.0.0.1][4292ee24][ManagementConnection] The client has reconnected.
+2024-04-04 13:02:09.031 [info] [127.0.0.1][4292ee24][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-04 13:02:09.097 [info] [127.0.0.1][106efa58][ExtensionHostConnection] <256007> Extension Host Process exited with code: 0, signal: null.
+2024-04-04 13:02:10.360 [info] [127.0.0.1][a816d5b6][ManagementConnection] New connection established.
+2024-04-04 13:02:10.769 [info] [127.0.0.1][30f9f535][ExtensionHostConnection] New connection established.
+2024-04-04 13:02:10.773 [info] [127.0.0.1][30f9f535][ExtensionHostConnection] <304330> Launched Extension Host Process.
+2024-04-08 13:27:18.272 [info] [127.0.0.1][30f9f535][ExtensionHostConnection] The client has reconnected.
+2024-04-08 13:27:18.364 [info] [127.0.0.1][a816d5b6][ManagementConnection] The client has reconnected.
+2024-04-08 14:13:18.606 [info] [127.0.0.1][a816d5b6][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-04-08 14:13:18.686 [info] [127.0.0.1][30f9f535][ExtensionHostConnection] <304330> Extension Host Process exited with code: 0, signal: null.
+2024-04-08 14:13:20.101 [info] [127.0.0.1][9a339113][ManagementConnection] New connection established.
+2024-04-08 14:13:20.601 [info] [127.0.0.1][dfae2a31][ExtensionHostConnection] New connection established.
+2024-04-08 14:13:20.606 [info] [127.0.0.1][dfae2a31][ExtensionHostConnection] <446499> Launched Extension Host Process.

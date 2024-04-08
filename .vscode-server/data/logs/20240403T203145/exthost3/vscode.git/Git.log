@@ -1,0 +1,26 @@
+2024-04-04 01:32:42.150 [info] Log level: Info
+2024-04-04 01:32:42.150 [info] Validating found git in: "git"
+2024-04-04 01:32:42.150 [info] Using git "2.34.1" from "git"
+2024-04-04 01:32:42.150 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:32:42.150 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-04-04 01:32:42.150 [info] Open repository: /home/yoel/git-practice
+2024-04-04 01:32:42.150 [info] > git config --get commit.template [1ms]
+2024-04-04 01:32:42.154 [info] No remotes found in the git config file.
+2024-04-04 01:32:42.156 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-04-04 01:32:42.161 [info] > git status -z -uall [2ms]
+2024-04-04 01:32:42.170 [info] > git config --get commit.template [1ms]
+2024-04-04 01:32:42.171 [info] No remotes found in the git config file.
+2024-04-04 01:32:42.176 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-04-04 01:32:42.179 [info] > git status -z -uall [1ms]
+2024-04-04 01:32:42.665 [info] > git check-ignore -v -z --stdin [1ms]
+2024-04-04 01:32:43.708 [info] > git show --textconv :index.js [7ms]
+2024-04-04 01:32:43.708 [info] > git ls-files --stage -- /home/yoel/git-practice/index.js [3ms]
+2024-04-04 01:32:43.714 [info] > git cat-file -s 699e9990ed0639e79bba85e5260c4da1f0dd2c2c [2ms]
+2024-04-04 01:32:47.970 [info] > git config --get commit.template [0ms]
+2024-04-04 01:32:47.973 [info] No remotes found in the git config file.
+2024-04-04 01:32:47.974 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-04-04 01:32:47.979 [info] > git status -z -uall [2ms]
+2024-04-04 01:32:52.992 [info] No remotes found in the git config file.
+2024-04-04 01:32:52.992 [info] > git config --get commit.template [5ms]
+2024-04-04 01:32:52.993 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-04-04 01:32:52.997 [info] > git status -z -uall [1ms]

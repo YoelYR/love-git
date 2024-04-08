@@ -1,0 +1,237 @@
+2024-04-04 01:34:31.301 [info] Log level: Info
+2024-04-04 01:34:31.301 [info] Validating found git in: "git"
+2024-04-04 01:34:31.301 [info] Using git "2.34.1" from "git"
+2024-04-04 01:34:31.301 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:34:31.301 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:34:31.301 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:34:31.301 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:34:33.378 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:34:33.378 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:35:31.294 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:35:31.294 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:35:51.057 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:35:51.057 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:36:12.729 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:36:12.729 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:36:27.489 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:36:27.489 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:36:29.880 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:36:29.880 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:37:17.681 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:37:17.681 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:38:56.680 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:38:56.680 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:39:05.856 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:39:05.856 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:40:39.640 [info] > git rev-parse --show-toplevel [28ms]
+2024-04-04 01:40:39.640 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:40:45.433 [info] > git rev-parse --show-toplevel [3ms]
+2024-04-04 01:40:45.433 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:40:46.205 [info] > git rev-parse --show-toplevel [17ms]
+2024-04-04 01:40:46.205 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:41:44.671 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:41:44.671 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:42:29.123 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:42:29.123 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:13.525 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-04 01:43:13.525 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:15.515 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:43:15.515 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:17.500 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:43:17.501 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:18.886 [info] > git rev-parse --show-toplevel [2ms]
+2024-04-04 01:43:18.886 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:43.439 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:43:43.439 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:43:57.925 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:43:57.926 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:47:21.174 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:47:21.174 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:49:38.104 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:49:38.104 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:50:25.869 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:50:25.870 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:50:39.918 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 01:50:39.918 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:51:02.277 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:51:02.277 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:51:43.901 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:51:43.901 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:51:52.365 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:51:52.365 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:51:55.845 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:51:55.845 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:51:57.220 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:51:57.220 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:52:04.221 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:52:04.221 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:52:10.196 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:52:10.196 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 01:52:20.902 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:52:20.902 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 01:56:07.046 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:56:07.046 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 01:57:26.109 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 01:57:26.109 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:00:28.875 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:00:28.875 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:03:18.778 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:03:18.778 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:05:17.706 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:05:17.706 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:06:03.681 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:06:03.681 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:06:16.826 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:06:16.826 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:11:14.458 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 02:11:14.458 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 02:15:37.462 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 02:15:37.462 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica/git-and-github-practice'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica/git-and-github-practice
+2024-04-04 12:03:38.753 [info] > git rev-parse --show-toplevel [0ms]
+2024-04-04 12:03:38.753 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 12:21:38.752 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 12:21:38.752 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 12:24:38.749 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-04 12:24:38.749 [info] fatal: detected dubious ownership in repository at '/home/yoel/practica'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/practica
+2024-04-04 12:25:38.749 [warning] Failed to get repository realpath for: "/home/yoel/practica/". Error: ENOENT: no such file or directory, realpath '/home/yoel/practica/'
+2024-04-04 13:01:52.908 [warning] Failed to get repository realpath for: "/home/yoel/practica/git-and-github-practice". Error: ENOENT: no such file or directory, realpath '/home/yoel/practica/git-and-github-practice'
+2024-04-04 13:01:53.061 [warning] Failed to get repository realpath for: "/home/yoel/practica/git-and-github-practice". Error: ENOENT: no such file or directory, realpath '/home/yoel/practica/git-and-github-practice'
+2024-04-04 13:01:53.200 [warning] Failed to get repository realpath for: "/home/yoel/practica". Error: ENOENT: no such file or directory, realpath '/home/yoel/practica'
