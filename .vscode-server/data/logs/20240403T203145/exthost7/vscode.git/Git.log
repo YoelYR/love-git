@@ -31,3 +31,8 @@ To add an exception for this directory, call:
 To add an exception for this directory, call:
 
 	git config --global --add safe.directory /home/yoel/love-git
+2024-04-08 14:32:26.288 [info] > git rev-parse --show-toplevel [1ms]
+2024-04-08 14:32:26.288 [info] fatal: detected dubious ownership in repository at '/home/yoel/love-git'
+To add an exception for this directory, call:
+
+	git config --global --add safe.directory /home/yoel/love-git
